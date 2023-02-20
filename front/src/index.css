@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding : 0;
+}
+
+:root {
+  --inside-bg:  #f9f9f9;
+  --outside-bg: #4f9be7;
+  --ins-bg: #0d6064a6;
+}
+/* 
+body{
+  background-color: var(--outside-bg)
+} */

@@ -1,0 +1,16 @@
+
+.outside-box{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  
+}
+.inside-box{
+    width: 90%;
+}
+.fa{
+    position: absolute;
+    right: 60px;
+    top: 44px;
+}

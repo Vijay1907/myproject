@@ -1,0 +1,29 @@
+1. git --version
+2. sudo apt install git
+3. git --version
+
+---------- > create a folder and a file inside it and then open the terminal in that folder
+--> touch demo.txt  -- to create file named demo.text
+--> gedit demo.txt  -- to open the file
+
+4. git init
+5. git status
+6. git add .
+7. git status
+8. git commit -m "my first commit"
+
+//done for once only
+{
+9. git config --global user.email "git emailid"
+10. git config --global user.name "git username"
+}
+
+11. git remote add origin https://local.......
+12. git push -u origin master
+--- > will ask for password 
+--- > will ask for token
+
+
+
+
+
